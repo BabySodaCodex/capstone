@@ -16,3 +16,21 @@ id,Name,Breed Group,Bred For,Minimum Life Span,Maximum Life Span,Minimum Height,
 
 Repo - https://github.com/BabySodaCodex/capstone.git
 Live - https://babysodacodex.github.io/capstone/
+
+## The plan
+
+![My wireframe](wireframe.png)
+
+### Sections
+Search — the box you type a breed name into and the button that runs it.
+Results — one card per breed that matched, with its life span on it.
+
+### User input
+
+A visitor types ______ and the page ______. — a box they type into.
+A visitor clicks ______ and the page ______. — a button, or a row of buttons with one per choice.
+A visitor ticks ______ and the page ______. — a checkbox, or a few of them.
+
+### Outputs
+
+Results show name and size
